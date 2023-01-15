@@ -1,14 +1,15 @@
 # FinalCodeSemesterProject
 
 
-Twitter V2 Example :
+
 
 Extract news data : GDELT
 
 Twitter V2 Data Collection : Contains the function that allows to download data from Twitter API. Needs one’s credentials for the Twitter API.
 
 
-Twitter Analysis : Notebook that given the dataset of tweets produces
+Twitter Analysis : Notebook that given the dataset of tweets preprocess it, and clean it. It also performs the two variants of user profiling, the first 
+being related to sentiment analysis, and the second one being more descriptive and using klustering.
 
 Linear Regression Abdeslam V2 for V2 Dataset - This Notebook has been prepared for running the linear regression over the first period. 
 Explained in first cell
